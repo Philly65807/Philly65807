@@ -1,6 +1,6 @@
 👋 Hi, I’m Philly
-- 👀 I’m interested in front and back- end development
-- 🌱 Python, HTML,CSS and Django
+- 👀 I’m a junior front and back- end developer
+- 🌱 Python, HTML,CSS and Django, AWS Cloud computing
 - 💞️ I’m looking to collaborate on website development projects
 - 📫 How to reach me phillyvivian@gmail.com
 - 😄 Pronouns: she/her
